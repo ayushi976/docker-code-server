@@ -289,7 +289,7 @@ Below are the instructions for updating containers:
 If you want to make local modifications to these images for development purposes or just to customize the logic:
 
 ```bash
-git clone https://github.com/linuxserver/docker-code-server.git
+git clone https://github.com/ayushi976/docker-code-server/
 cd docker-code-server
 docker build \
   --no-cache \
